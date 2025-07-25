@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>صيدلية الحسام</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>صيدلية الحسام</h1>
+    <nav>
+      <a href="#medical-supplies">مستلزمات طبية</a>
+      <a href="#beauty-products">مواد تجميل</a>
+      <a href="#contact">تواصل معنا</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="medical-supplies">
+      <h2>مستلزمات طبية</h2>
+      <img src="pharmacy-supplies.jpg" alt="مستلزمات طبية">
+      <p>نقدم مجموعة واسعة من المستلزمات الطبية: أقنعة، ضمادات، أجهزة قياس الضغط وغيرها.</p>
+    </section>
+
+    <section id="beauty-products">
+      <h2>مواد تجميل</h2>
+      <img src="beauty-products.jpg" alt="مواد تجميل">
+      <p>منتجات تجميل عالية الجودة للعناية بالبشرة والشعر من علامات موثوقة.</p>
+    </section>
+
+    <section id="contact">
+      <h2>تواصل معنا</h2>
+      <p>للطلب أو الاستفسار، اتصل على:</p>
+      <p class="phone">٠٧٩٠٥٢١١١٢٠</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 صيدلية الحسام
+  </footer>
+</body>
+</html>
